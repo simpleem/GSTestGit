@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // add line one
         // add line two
+        // add line three
         // Dispose of any resources that can be recreated.
     }
 
